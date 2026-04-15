@@ -94,6 +94,7 @@ Analyze README quality and repo metrics
 Improve LLM prompt engineering
 Introduce true agent decision-making
 Enhance UI/UX
+```
 
 👨‍💻 Author
 Sayooj S B
