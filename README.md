@@ -96,7 +96,7 @@ Introduce true agent decision-making
 Enhance UI/UX
 ```
 
-## 👨‍💻 Overview
+## 👨‍💻 Author
 Sayooj S B
 
 ## ⭐ Acknowledgements
