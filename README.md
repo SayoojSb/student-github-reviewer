@@ -58,8 +58,6 @@ User → Streamlit UI → FastAPI Backend → LangGraph Agents
 
 ## 🛠️ Setup (Local)
 
-### 1. Clone Repository
-
 ```bash
 git clone https://github.com/SayoojSb/student-github-reviewer.git
 cd student-github-reviewer
@@ -78,23 +76,26 @@ GITHUB_TOKEN=your_github_token
 uvicorn main:app --reload
 6. Run Frontend
 streamlit run ui/app.py
-☁️ Deployment
+```
+
+### ☁️ Deployment
 
 The project is deployed using Render:
-
 Backend → FastAPI service
 Frontend → Streamlit service
+
 ⚠️ Limitations
-Uses only recent repositories (limited analysis)
-Feedback may be generic for highly experienced developers
-No scoring or ranking system yet
+- Uses only recent repositories (limited analysis)
+- Feedback may be generic for highly experienced developers
+- No scoring or ranking system yet
+
 🚀 Future Improvements
-Add portfolio scoring system
-Analyze README quality and repo metrics
-Improve LLM prompt engineering
-Introduce true agent decision-making
-Enhance UI/UX
-```
+- Add portfolio scoring system
+- Analyze README quality and repo metrics
+- Improve LLM prompt engineering
+- Introduce true agent decision-making
+- Enhance UI/UX
+
 
 ## 👨‍💻 Author
 Sayooj S B
