@@ -96,11 +96,11 @@ Introduce true agent decision-making
 Enhance UI/UX
 ```
 
-👨‍💻 Author
+## 👨‍💻 Overview
 Sayooj S B
 
-⭐ Acknowledgements
-GitHub API
-Groq (Llama 3)
-LangGraph & LangChain
+## ⭐ Acknowledgements
+- GitHub API
+- Groq (Llama 3)
+- LangGraph & LangChain
 
